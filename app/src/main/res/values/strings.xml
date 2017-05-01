@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dilli Darshan</string>
+
+    <string name="resto">Restaurants</string>
+
+
+    <string name="tSpots">Tourist Spots</string>
+
+
+    <string name="main_button">Click To Explore</string>
+
+
+    <string name="shop">Shopping Attracions</string>
+
+    <string name="nearby">Places Near Delhi</string>
+
+    <string name="emergency">Emergency Numbers</string>
+</resources>

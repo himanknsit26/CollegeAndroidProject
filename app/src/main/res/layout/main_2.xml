@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background"
+    android:orientation="vertical"
+    >
+
+
+    <TextView
+        android:id="@+id/tspots"
+        style="@style/CategoryStyle"
+        android:background="@color/category_2"
+        android:text="@string/tSpots" />
+
+    <TextView
+        android:id="@+id/resto"
+        style="@style/CategoryStyle"
+        android:background="@color/category_1"
+        android:text="@string/resto" />
+
+    <TextView
+        android:id="@+id/shop"
+        style="@style/CategoryStyle"
+        android:background="@color/category_3"
+        android:text="@string/shop" />
+
+    <TextView
+        android:id="@+id/nearbyPlaces"
+        style="@style/CategoryStyle"
+        android:background="@color/category_4"
+        android:text="@string/nearby" />
+
+
+    <TextView
+        android:id="@+id/emergencyNo"
+        style="@style/CategoryStyle"
+        android:background="@color/category_5"
+        android:text="@string/emergency" />
+
+</LinearLayout>
